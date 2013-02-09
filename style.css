@@ -131,7 +131,7 @@ body {
 #game.open #gameIntro {
   opacity: 1;
   z-index: 3;
-  background: url(http://www.sl-designs.com/images/free-backgrounds/smiley-animated1.gif) center center no-repeat;
+  background: url(http://www.sl-designs.com/images/free-backgrounds/smiley-animated1.gif) repeat top left fixed;
 }
 
 #game.play #gameIntro, #game.end #gameIntro {
