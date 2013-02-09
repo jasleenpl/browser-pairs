@@ -11,7 +11,7 @@ a {
 
 body {
   text-align: center;
-  background: url(http://aufabunda.info/wp-content/uploads/2012/12/facebook-Emoticon.jpg) repeat top left fixed;
+  background: url(www.sl-designs.com/images/free-backgrounds/smiley-animated1.gif) repeat top left fixed;
   /*background-color: #F26522;
   background-size: auto auto, auto auto, 50px 50px, 50px 50px, auto auto;*/
   color: #DA4930;
@@ -131,7 +131,7 @@ body {
 #game.open #gameIntro {
   opacity: 1;
   z-index: 3;
-  background: url(http://www.sl-designs.com/images/free-backgrounds/smiley-animated1.gif) repeat top left fixed;
+  background: url(http://aufabunda.info/wp-content/uploads/2012/12/facebook-Emoticon.jpg) repeat top left fixed;
 }
 
 #game.play #gameIntro, #game.end #gameIntro {
