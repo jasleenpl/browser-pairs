@@ -98,14 +98,14 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: url(./images/ie.png) no-repeat; background-size: contain;}
-.fx {background: url(./images/fx.png) no-repeat; background-size: contain;}
-.cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
-.sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
-.op {background: url(./images/op.png) no-repeat; background-size: contain;}
-.ns {background: url(./images/ns.png) no-repeat; background-size: contain;}
-.tb {background: url(./images/tb.png) no-repeat; background-size: contain;}
-.fm {background: url(./images/fm.png) no-repeat; background-size: contain;}
+.ie {background: url(https://lh5.googleusercontent.com/-5HHYNY5EJdY/AAAAAAAAAAI/AAAAAAAAAA4/T75PUTgZq04/photo.jpg) no-repeat; background-size: contain;}
+.fx {background: url(http://www.radionervion.com/documentos/bloques_programas_1096_file_foto_5126.jpg) no-repeat; background-size: contain;}
+.cr {background: url(http://openclipart.org/image/250px/svg_to_png/22424/nicubunu_Emoticons_Silence_face.png) no-repeat; background-size: contain;}
+.sf {background: url(http://image.spreadshirt.com/image-server/v1/designs/10626477,width=190,height=190/cartoon-emoticons-smiley-face-wink.png) no-repeat; background-size: contain;}
+.op {background: url(http://image.spreadshirt.com/image-server/v1/designs/10626445,width=190,height=190.png/cartoon-emoticons-smiley-face-glasses_design.png) no-repeat; background-size: contain;}
+.ns {background: url(http://image.spreadshirt.com/image-server/v1/designs/10626449,width=190,height=190/cartoon-emoticons-smiley-face-large-grin.png) no-repeat; background-size: contain;}
+.tb {background: url(http://1.bp.blogspot.com/-csH6z2yxxf4/T8JJOZjdznI/AAAAAAAAADg/KF8LpMMveTs/s1600/kissy+smiley+face+for+blog.jpg) no-repeat; background-size: contain;}
+.fm {background: url(http://blogimg.goo.ne.jp/user_image/2c/41/5a4f334b129d1a4b63707239589af132.jpg) no-repeat; background-size: contain;}
 
 
 /* The .reset class is added to the cards when the game is reset */
